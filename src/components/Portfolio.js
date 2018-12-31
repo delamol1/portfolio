@@ -13,7 +13,7 @@ function Portfolio({ visibility }) {
                 <div className="about-section">
                 <p><strong>REACT DEVELOPER SITE</strong></p>
                     <div className="portfolio-project">
-                        <a href="https://github.com/delamol1/portfolio">Please, feel free to check the source code</a>
+                        <a href="https://github.com/delamol1/portfolio/tree/master">Please, feel free to check the source code</a>
                         <p> This website was designed with <strong>REACT</strong> to demonstrate my skills in this javascript framework.It demonstrates creating functional and class-based components, props handling, state and changing state, conditional rendering, handling events. I am planning to add here lifecycle methods, a form and and an example of fetching data from an API. </p>
                         <img alt="" src={presentation} />
                     </div>
