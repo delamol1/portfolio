@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.ae4ea724.css",
   "main.css.map": "static/css/main.ae4ea724.css.map",
-  "main.js": "static/js/main.ef758555.js",
-  "main.js.map": "static/js/main.ef758555.js.map",
+  "main.js": "static/js/main.cde37105.js",
+  "main.js.map": "static/js/main.cde37105.js.map",
   "static/media/chart.png": "static/media/chart.334cfbe7.png",
   "static/media/css.png": "static/media/css.4a8c1ebf.png",
   "static/media/cssgrid.png": "static/media/cssgrid.5fcc1eec.png",
@@ -12,6 +12,7 @@
   "static/media/knlu.png": "static/media/knlu.d3ae2090.png",
   "static/media/layout.png": "static/media/layout.77f33f14.png",
   "static/media/mate.png": "static/media/mate.df29ba95.png",
+  "static/media/pagination.png": "static/media/pagination.89133667.png",
   "static/media/pres.png": "static/media/pres.2fd9b556.png",
   "static/media/project2.png": "static/media/project2.f1338d3b.png",
   "static/media/react.png": "static/media/react.8ab12c49.png",
